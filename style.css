@@ -93,3 +93,7 @@ footer, .footer {
     50%  { transform: rotate(100deg); }
     100% { transform: rotate(-50deg); }
 }
+
+nav {
+    text-align: center;
+}
