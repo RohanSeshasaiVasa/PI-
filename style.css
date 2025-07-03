@@ -96,4 +96,27 @@ footer, .footer {
 
 nav {
     text-align: center;
+    background: white;
+    padding: 15px;
+    border-radius: 12px;
+    margin-bottom: 25px;
+    box-shadow: 2px 10px rgb(rgba(255, 0, 0, 0.027), rgba(8, 12, 8, 0), rgb(7, 7, 12));
+}
+
+nav a {
+    color:rgb(7, 7, 12);
+    text-decoration: none;
+    margin: 18px;
+    padding: 8px;
+    border: 6px;
+    transition: background 1s, 1s;
+}
+
+link {
+    text-align: center;
+    background: white;
+    padding: 15px;
+    border-radius: 12px;
+    margin-bottom: 25px;
+    box-shadow: 2px 10px rgb(rgba(255, 0, 0, 0.027), rgba(8, 12, 8, 0), rgb(7, 7, 12));
 }
